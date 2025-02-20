@@ -1,0 +1,42 @@
+        #startButton{
+            height: 45px;
+            width: 100px;
+            font-size: larger;
+            background-color: dodgerblue;
+            color: white;
+            border-radius: 10px;
+            border: none;
+            margin-left: 100px;
+        }
+
+        #questionForUser{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #optionForUser{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        #optionForUser button{
+            height: 35px;
+            width: 60px;
+        }
+
+        #nextButton{
+            height: 45px;
+            width: 100px;
+            font-size: larger;
+            background-color: dodgerblue;
+            color: white;
+            border-radius: 10px;
+            border: none;
+            margin-left: 100px;
+        }
+    
