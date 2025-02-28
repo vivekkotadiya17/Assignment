@@ -1,0 +1,14 @@
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\bin\Debug\net7.0\expensetracker.exe
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\bin\Debug\net7.0\expensetracker.deps.json
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\bin\Debug\net7.0\expensetracker.runtimeconfig.json
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\bin\Debug\net7.0\expensetracker.dll
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\bin\Debug\net7.0\expensetracker.pdb
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.AssemblyInfoInputs.cache
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.AssemblyInfo.cs
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.csproj.CoreCompileInputs.cache
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.dll
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\refint\expensetracker.dll
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.pdb
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\expensetracker.genruntimeconfig.cache
+D:\Assignments\Assignment\expensetrackerapp\expensetracker\obj\Debug\net7.0\ref\expensetracker.dll
