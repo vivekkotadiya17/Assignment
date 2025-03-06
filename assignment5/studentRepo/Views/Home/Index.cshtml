@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    ViewData["Title"] = "Process CSV File";
+}
+
+<h2>Enter CSV File Path</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-success">@ViewBag.Message</div>
+}
+
+<form asp-action="ProcessCsv" asp-controller="Home" method="post">
+    <div class="form-group">
+        <label>File Path:</label>
+        <input type="text" name="filePath" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Process</button>
+</form>
