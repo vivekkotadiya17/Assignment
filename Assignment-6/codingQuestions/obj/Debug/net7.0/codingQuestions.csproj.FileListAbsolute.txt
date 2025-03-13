@@ -1,0 +1,14 @@
+D:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.AssemblyInfoInputs.cache
+D:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.AssemblyInfo.cs
+D:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.csproj.CoreCompileInputs.cache
+d:\Assignment-6\codingQuestions\bin\Debug\net7.0\codingQuestions.exe
+d:\Assignment-6\codingQuestions\bin\Debug\net7.0\codingQuestions.deps.json
+d:\Assignment-6\codingQuestions\bin\Debug\net7.0\codingQuestions.runtimeconfig.json
+d:\Assignment-6\codingQuestions\bin\Debug\net7.0\codingQuestions.dll
+d:\Assignment-6\codingQuestions\bin\Debug\net7.0\codingQuestions.pdb
+d:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.dll
+d:\Assignment-6\codingQuestions\obj\Debug\net7.0\refint\codingQuestions.dll
+d:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.pdb
+d:\Assignment-6\codingQuestions\obj\Debug\net7.0\codingQuestions.genruntimeconfig.cache
+d:\Assignment-6\codingQuestions\obj\Debug\net7.0\ref\codingQuestions.dll
